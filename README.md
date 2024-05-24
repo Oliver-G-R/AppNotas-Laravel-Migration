@@ -10,7 +10,7 @@
 ## Migracion de proyecto en php puro y js a laravel (App Notas)
 
 Esta es una migracion de un poryecto en php puro y js a laravel, el proyecto es una aplicacion de notas, donde  
-se pueden acer las consultas CRUD base.
+se pueden hacer las consultas CRUD base.
 
 ## Proyecto original
 
